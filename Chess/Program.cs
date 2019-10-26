@@ -24,9 +24,6 @@ namespace Chess
         A B C D E F G H
     */
 
-
-    // Aazebazeb
-
     class Program
     {
 
