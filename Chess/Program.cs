@@ -25,7 +25,7 @@ namespace Chess
     */
 
 
-    // Aazebazeb
+    // TEST
 
     class Program
     {
